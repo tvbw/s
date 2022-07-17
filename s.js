@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "少儿不宜自用资源，传播后果自负-20220526",
+            "name": "ss20220718",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
